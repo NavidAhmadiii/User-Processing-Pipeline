@@ -140,6 +140,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is for learning purposes. Feel free to use, modify, and distribute it. No explicit license file is provided, but the author (Navid Ahmadi) permits educational and personal use. For commercial use, please contact the repository author.
 
 ---
-
-**Author**: [Navid Ahmadi](https://github.com/NavidAhmadiii)  
-**Last Updated**: April 2026
