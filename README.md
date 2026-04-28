@@ -83,10 +83,9 @@ Create a **Postgres connection** with the connection ID `postgres`:
 | Field      | Value                     |
 |------------|---------------------------|
 | Conn Type  | Postgres                  |
-| Host       | your database host        |
-| Schema     | your database name        |
-| Login      | your username             |
-| Password   | your password             |
+| Host       | Postgres                  |
+| Login      | airflow                   |
+| Password   |                           |
 | Port       | 5432 (default)            |
 
 ### DAG Location
